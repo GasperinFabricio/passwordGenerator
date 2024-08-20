@@ -1,0 +1,8 @@
+
+r	java:S1063"+Replace this use of System.out by a logger.(ùÂË¨ûÿÿÿÿ8Þ²´è–2J$dec3fed9-f071-432f-9f63-c0c53f23fcf5
+r
+java:S1128"*Remove this unused import 'java.sql.Time'.(Üå»‰þÿÿÿÿ8ß²´è–2J$23eb59c8-72f8-448b-b375-3a96f6e2d469
+v
+java:S1128".Remove this unused import 'java.time.Instant'.(Â‚éñÿÿÿÿÿ8ß²´è–2J$70e60a68-747e-463f-8af8-cfa558962b5f
+x
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ8ß²´è–2J$5a921c2b-7005-498c-8911-ae99d98e8cf4

@@ -1,0 +1,12 @@
+
+z	java:S135 "YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8–ç˜è–2
+‡
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(¾“©ì8ªúè–2J$7442cc93-71ed-453b-b810-f2a80e3b2fe9
+{
+java:S2589#"8Remove this expression which always evaluates to "false"(¡Ùê¿8ğûè–2J$086cbd54-2c3f-48a2-a02b-02fb527ab057
+™
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8¬úè–2J$d78c2f0a-53ed-420d-a72b-7834f9b8efae
+r	java:S106"+Replace this use of System.out by a logger.(ŸÕ‡©ıÿÿÿÿ8¯úè–2J$0ea87fe9-244d-4606-8776-fa5ead91f053
+X
+java:S1119";Refactor the code to remove this label and the need for it.(Öœ€‹8£ç˜è–2
+r	java:S106%"+Replace this use of System.out by a logger.(•êõÇûÿÿÿÿ8í–—è–2J$3f6e3fd0-d155-4d0d-be4c-10704159914c
